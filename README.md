@@ -21,7 +21,7 @@ Publishing Company is a website designed for a book publishing company, providin
 - Netlify – Hosting Platform
 
 
-## 🌐Live Demo
+## 🌐Live Site
 Check out the live website: [Publishing Company](https://publish-company.netlify.app/)
 
 
