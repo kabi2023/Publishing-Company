@@ -6,7 +6,7 @@ Publishing Company is a website designed for a book publishing company, providin
 
 
 
-## Features 
+## ✨Features 
 
 - Responsive and visually appealing design
 - Information about publishing services
@@ -14,20 +14,21 @@ Publishing Company is a website designed for a book publishing company, providin
 - Simple and elegant UI/UX for easy navigation
 
 
-## Technologies Used
+## 🛠Technologies Used
 
 - HTML – Structure of the website
 - CSS – Styling and layout design
-- Netlify – For Hosting
-
-## Live Demo
-
-Check out the live website: Publishing Company
+- Netlify – Hosting Platform
 
 
+## 🌐Live Demo
+Check out the live website: [Publishing Company](https://publish-company.netlify.app/)
 
 
-## How To Use
+
+
+
+## 📌How To Use
 
 1.Open the website link in any modern browser.
 
@@ -36,12 +37,12 @@ Check out the live website: Publishing Company
 3.Contact the company for publishing inquiries.
 
 
-## Demo
+## 🎬Demo
 
 https://github.com/user-attachments/assets/799771c2-23b9-4f8a-8ba5-e429bbcfa52a
 
 
-## License
+## 📄License
 
 This project is for educational and portfolio purposes.
 
